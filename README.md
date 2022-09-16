@@ -1,6 +1,6 @@
 # game001-Unity
 ## Description:
-My game was developed in Unity, a programming language based on C++.
+My game was developed in Unity, a programming language based on C#.
 Among the artificial intelligence algorithms you can find are:
 Non-player characters,
 Area covered by terrain,
